@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#4f46e5"/></linearGradient></defs>
+<rect width="600" height="600" rx="28" fill="url(#g)"/><circle cx="470" cy="105" r="165" fill="white" opacity=".09"/><circle cx="105" cy="510" r="190" fill="black" opacity=".12"/>
+<path d="M120 300c72-86 148-86 222 0 63 73 105 77 150 24" fill="none" stroke="white" stroke-width="18" stroke-linecap="round" opacity=".78"/>
+<text x="48" y="490" fill="white" font-size="58" font-family="Arial, sans-serif" font-weight="800" letter-spacing="2">NOITE</text>
+<text x="50" y="535" fill="white" opacity=".72" font-size="25" font-family="Arial, sans-serif">Mira</text>
+</svg>
